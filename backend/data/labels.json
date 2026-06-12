@@ -1,0 +1,24 @@
+{
+  "comment": "Benchmark ground-truth labels for the evaluation harness. Used in benchmark mode only; reviewers never see labels during live screening.",
+  "REQ-0417": {
+    "be_arjun_nair": "strong",
+    "be_meera_kulkarni": "strong",
+    "be_tara_sen": "hidden",
+    "be_dev_malhotra": "mismatch",
+    "be_unnamed_messy": "medium",
+    "be_tara_s_duplicate": "low"
+  },
+  "REQ-0421": {
+    "ds_anika_bose": "strong",
+    "ds_imran_shaikh": "hidden",
+    "ds_veer_saxena": "verify",
+    "ds_sana_qureshi": "verify",
+    "ds_mira_das": "verify"
+  },
+  "REQ-0428": {
+    "de_aarush_gupta": "strong",
+    "de_omar_siddiqui": "hidden",
+    "de_nilesh_kamble": "hidden",
+    "de_kriti_malhotra": "medium"
+  }
+}

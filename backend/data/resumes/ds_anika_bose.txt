@@ -1,0 +1,14 @@
+Anika Bose
+Data Scientist, telecom analytics
+
+EXPERIENCE
+Data Scientist, telecom analytics  Feb 2020 - Present
+- Built hierarchical time-series forecasting models in Python with scikit-learn and PyTorch on 80M rows per day in SQL warehouses.
+- Designed a quarterly back-testing protocol with calibration curves, presented to the model review board.
+- Owned supervised model deployment to production: Dockerized inference with Airflow retraining DAGs and drift monitoring alarms.
+- Designed churn classification with statistics-driven A/B testing for retention campaigns; documented validation reports.
+Analyst, telecom operator  Aug 2018 - Jan 2020
+- Wrote SQL pipelines in Spark and pandas for network demand reporting.
+
+SKILLS
+Python, pandas, scikit-learn, PyTorch, SQL, Airflow, Docker, MLflow, Spark, statistics, forecasting

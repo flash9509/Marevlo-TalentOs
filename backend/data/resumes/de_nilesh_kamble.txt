@@ -1,0 +1,13 @@
+Nilesh Kamble
+Site Reliability Engineer, adtech
+
+EXPERIENCE
+Site Reliability Engineer, adtech  Mar 2020 - Present
+- Operate high-throughput event ingest at 2M events per second on Nomad and Consul with NATS streaming, with SLA ownership.
+- Wrote Terraform modules and Prometheus alerting; on-call lead with documented runbooks and rollback procedures.
+- Built Python and SQL pipelines feeding PostgreSQL aggregates for billing with monitoring dashboards in Grafana.
+Systems Engineer  Jan 2018 - Feb 2020
+- Maintained Linux fleets and Go-based ingestion services in production.
+
+SKILLS
+Go, Python, Nomad, Consul, NATS, Prometheus, Terraform, PostgreSQL, SQL, Grafana, Linux

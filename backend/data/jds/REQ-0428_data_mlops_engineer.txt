@@ -1,0 +1,20 @@
+Data Engineer / MLOps Engineer
+Build and operate the data and model-serving backbone: ingestion, pipelines,
+feature stores, and model deployment.
+
+EXPERIENCE: 4-10 years
+
+MANDATORY:
+- Python and SQL pipelines
+- Airflow or equivalent orchestration
+- Spark or large-scale processing
+- Docker containerized services
+- Kafka or streaming ingestion
+- Pipeline operations with monitoring and alerting
+
+PREFERRED:
+- Kubernetes
+- Model serving with Triton or ONNX or TensorRT
+- Terraform
+- Data quality frameworks
+- Medallion architecture

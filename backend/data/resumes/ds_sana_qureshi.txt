@@ -1,0 +1,13 @@
+Sana Qureshi
+AI/ML Engineer, global financial firm
+
+SUMMARY
+AI/ML Engineer with 4+ years of experience delivering scalable machine learning and generative AI solutions.
+
+EXPERIENCE
+AI/ML Engineer, global financial firm  Jan 2024 - Present
+- Fine-tuned transformer models for financial sentiment analysis and fraud detection workflows.
+Graduate coursework and assistantship  Aug 2022 - May 2024
+
+SKILLS
+Python, SQL, Flask, Spark, gRPC, TensorFlow, PyTorch, scikit-learn, pandas, NumPy, GPT-class LLMs, XGBoost, LightGBM, Random Forest, Logistic Regression, Clustering, Deep Learning, Neural Networks, RAG, Decision Trees, SVM, LSTM, GenAI, NLP fine-tuning, BLEU optimization, Hybrid Search, Text Classification, Sentiment Analysis, NER, OpenCV, Image Processing, Object Detection, Image Segmentation, GANs, ResNet, YOLO, VGGNet, EfficientNet, MongoDB, NoSQL, Hadoop, Dataflow, Beam, Databricks, Elasticsearch, AWS, SageMaker, Lambda, DynamoDB, Snowflake, Azure, Predictive Modeling, Statistical Analysis, Feature Engineering, Docker, Kubernetes, CI/CD, Model Monitoring, Git, REST APIs, Tableau, Power BI, MySQL, PostgreSQL

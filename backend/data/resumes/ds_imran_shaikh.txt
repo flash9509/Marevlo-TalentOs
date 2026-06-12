@@ -1,0 +1,12 @@
+Imran Shaikh
+Research Engineer, computer-vision lab
+
+EXPERIENCE
+Research Engineer, computer-vision lab  May 2021 - Present
+- Built the lab's training infrastructure: CI-triggered retraining jobs with Dockerized ONNX inference services running 24/7 for two field deployments.
+- Trained detection and segmentation models in PyTorch for field deployment on GPU servers with CUDA scheduling.
+- Designed inference optimization passes reducing latency 4x; wrote PostgreSQL result stores and monitoring scripts with alerting.
+- Maintained reproducible training runs with experiment tracking and automated evaluation suites.
+
+SKILLS
+Python, PyTorch, Docker, CUDA, ONNX, CI pipelines, PostgreSQL, Linux

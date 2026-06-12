@@ -1,0 +1,12 @@
+Meera Kulkarni
+Senior Software Engineer, BFSI product company
+
+EXPERIENCE
+Senior Software Engineer, BFSI product company  Jan 2018 - Present
+- Built the core banking REST API layer in Django REST and FastAPI, operated in production at 99.95 percent uptime SLO.
+- Implemented Kafka outbox patterns for exactly-once ledger events; designed audit-trail compliance into the schema.
+- Own Docker and Terraform based CI/CD pipelines; led 4 engineers; on-call rotation with documented rollback.
+- Scaled PostgreSQL with partitioning and read replicas for 50M account rows.
+
+SKILLS
+Python, Django REST, FastAPI, Kafka, PostgreSQL, Docker, Terraform, AWS, JWT, CI/CD

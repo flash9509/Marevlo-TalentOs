@@ -1,0 +1,12 @@
+Kriti Malhotra
+Analytics Engineer, ecommerce
+
+EXPERIENCE
+Analytics Engineer, ecommerce  May 2022 - Present
+- Built dbt models and SQL transformations on BigQuery; scheduled with Airflow.
+- Maintained Looker dashboards and data quality tests for marketing analytics.
+Data Analyst  Jun 2020 - Apr 2022
+- Wrote Python and SQL reports for sales operations.
+
+SKILLS
+SQL, dbt, Python, Airflow, BigQuery, Looker

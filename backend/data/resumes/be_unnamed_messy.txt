@@ -1,0 +1,9 @@
+senior software engineer at large IT services firm
+successfully developed methodologies to streamline data conversion leveraging latest tools
+created optimized PL/SQL scripts to automate data gathering and transformation
+refactored existing processes and built components to reduce manual efforts and performed unit tests
+java developer
+architected and implemented features in Spring Boot to enhance web application capabilities
+designed and developed UI pages in ReactJS and contributed to process workflows
+implemented unit tests in JUnit and Mockito providing full code coverage
+skills java spring boot reactjs javascript python pl/sql rest microservices hibernate postman

@@ -1,0 +1,15 @@
+Omar Siddiqui
+AI Research Engineer, embedded-vision lab
+
+EXPERIENCE
+AI Research Engineer, embedded-vision lab  Nov 2024 - Present
+- Develop and deploy custom AI models on embedded devices ensuring faster real-time inference using TensorRT, quantization, pruning and Docker.
+- Built GStreamer video pipelines for real-time camera ingestion on edge accelerators.
+Research Assistant, university lab  Sep 2022 - Oct 2024
+- Implemented INT8 quantization-aware training for cost-effective CNN inference on embedded systems; published peer-reviewed research.
+- Developed unsupervised anomaly detection for industrial settings; deployed a containerized Flask application using Docker for a radiator inspection client.
+Machine Learning Engineer, analytics studio  Jun 2022 - Aug 2022
+- Built a generalized ML pipeline for market forecasting with scikit-learn and time-series analysis.
+
+SKILLS
+Python, PyTorch, TensorRT, ONNX, Docker, quantization, GStreamer, FastAPI, Flask, scikit-learn, Linux

@@ -1,0 +1,20 @@
+Veer Saxena
+Applied AI student, final term
+
+OBJECTIVE
+3+ years experienced in algorithm design and development for machine learning models. Skilled in
+developing and deploying cloud-based data models and statistical models for complex data sets.
+
+EXPERIENCE
+Machine Learning Engineer, freelance  Jul 2024 - Feb 2025
+- Experimented with transformer and multi-stage trajectory prediction models for highway scenarios.
+- Developed PyTorch scripts to filter data and generate features for trajectory estimation networks.
+App Developer Intern, nonprofit foundation  Jun 2023 - Sep 2023
+- Built quiz features in a mobile app with state management and a cloud database.
+
+PROJECTS
+- Sentiment analysis on a public movie review dataset using BERT word tokenizers.
+- Vehicle number plate detection with OpenCV and OCR character extraction.
+
+SKILLS
+Python, C++, TensorFlow, Keras, PyTorch, OpenCV, pandas, NumPy, scikit-learn, NLTK, Hadoop, Spark, Kafka, Hive, MongoDB, Elasticsearch, Docker, AWS, Databricks

@@ -1,0 +1,16 @@
+Mira Das
+Recent M.Tech graduate
+
+SUMMARY
+Machine learning enthusiast with deployed sentiment analysis serving millions of requests at scale.
+
+EDUCATION
+M.Tech  Aug 2023 - May 2025
+
+PROJECTS
+- Customer churn prediction on the telco churn dataset from Kaggle using a standard scikit-learn pipeline.
+- Sentiment analysis tutorial on a movie review dataset following an online course capstone.
+- Image classifier on MNIST digits with TensorFlow.
+
+SKILLS
+Python, TensorFlow, PyTorch, scikit-learn, NLP, computer vision, SQL, Spark, AWS

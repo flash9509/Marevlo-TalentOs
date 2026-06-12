@@ -1,0 +1,20 @@
+Data Scientist / Applied ML Engineer
+Forecasting and anomaly-detection models on sensitive operational data.
+Training and inference fully on-prem.
+
+EXPERIENCE: 4-9 years
+
+MANDATORY:
+- Python ML stack with pandas and scikit-learn or PyTorch
+- Supervised model development end to end
+- Model evaluation and validation rigor including calibration
+- SQL on large tables
+- Model deployment to production
+- Statistics fundamentals
+
+PREFERRED:
+- Time-series forecasting
+- MLOps with Docker and CI for models
+- Spark or Airflow
+- NLP
+- Drift monitoring

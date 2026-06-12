@@ -1,0 +1,22 @@
+Senior Backend Software Developer
+Citizen- and customer-facing backend services on sovereign or private
+infrastructure. Strict data residency, 99.9 percent availability,
+change-control governance.
+
+EXPERIENCE: 5-10 years
+
+MANDATORY:
+- Python backend service ownership
+- REST API design and ownership
+- FastAPI in production (org-standard framework)
+- PostgreSQL at scale
+- Docker and containerized deploys
+- CI/CD pipeline ownership
+- Production operations including on-call and rollback
+
+PREFERRED:
+- Kubernetes
+- Kafka or message queues
+- Redis
+- Terraform
+- OAuth2 and JWT API security

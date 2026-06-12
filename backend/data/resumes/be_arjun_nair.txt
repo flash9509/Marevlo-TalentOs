@@ -1,0 +1,18 @@
+Arjun Nair
+Backend Engineer, e-governance vendor
+
+SUMMARY
+Seven years building Python services for state-government portals.
+
+EXPERIENCE
+Backend Engineer, e-governance vendor  Mar 2019 - Present
+- Designed and operate 12 FastAPI microservices serving 40k requests per minute at peak in production.
+- Partitioned PostgreSQL for 30M-row reconciliation workloads with documented rollback runbooks.
+- On-call owner; wrote rollback runbooks adopted department-wide, reduced MTTR from 40 to 12 minutes.
+- Built GitLab CI deployment pipelines with blue-green deploys and immutable audit logging.
+- Implemented OAuth2 and JWT security for citizen-facing REST APIs behind nginx.
+Software Engineer, payments startup  Jun 2017 - Feb 2019
+- Developed Django REST services with Redis caching and Docker deploys on Kubernetes.
+
+SKILLS
+Python, FastAPI, Django, PostgreSQL, Docker, Kubernetes, GitLab CI, Redis, OAuth2, JWT, Prometheus, Terraform

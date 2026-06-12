@@ -1,0 +1,14 @@
+Tara Sen
+Software Engineer, logistics platform
+
+EXPERIENCE
+Software Engineer, logistics platform  Apr 2020 - Present
+- Built and operate Flask REST services handling 8M events per day in production with PostgreSQL and Celery workers.
+- Wrote GitLab deploy pipelines with automated rollback for all team services behind nginx on Linux hosts.
+- On-call rotation lead; reduced MTTR from 42 to 11 minutes; wrote the team runbooks.
+- Designed idempotent carrier webhook ingestion with Redis-backed deduplication, deployed with Docker.
+Junior Engineer, courier startup  Jul 2018 - Mar 2020
+- Maintained Python billing scripts and PostgreSQL reports.
+
+SKILLS
+Python, Flask, PostgreSQL, Docker, GitLab pipelines, Celery, Nginx, Redis, Linux

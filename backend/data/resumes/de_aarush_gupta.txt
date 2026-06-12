@@ -1,0 +1,16 @@
+Aarush Gupta
+Senior Software Engineer, cyber-insurance scaleup
+
+EXPERIENCE
+Senior Software Engineer, cyber-insurance scaleup  Sep 2023 - Present
+- Redesigned the risk scanning system: architected an asynchronous, parallelized platform on 10,000 Kubernetes pods scaling to 1M concurrent scans.
+- Increased capacity from 7K to 100K scans per day and cut compute costs 5x with monitoring metrics and alerting.
+Advisor, Data Engineering, enterprise storage major  Jan 2021 - Sep 2023
+- Developed and managed 100+ ETL pipelines handling petabyte-scale ingestion via Kafka and Airflow, processing 500GB+ daily.
+- Built an automated data validation engine reducing error rates 95 percent with real-time dashboards and alerting.
+- Optimized Spark (PySpark) processing in Databricks for daily 200GB exports with row and column level security under documented SLAs.
+Data Engineer  Jul 2019 - Jan 2021
+- Automated workflows with Airflow, medallion architecture landing and reporting layers in SQL on Redshift and Snowflake.
+
+SKILLS
+Python, SQL, Airflow, Kafka, PySpark, Databricks, Kubernetes, Docker, PostgreSQL, Redshift, Snowflake, Terraform, Grafana

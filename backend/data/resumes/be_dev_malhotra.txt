@@ -1,0 +1,13 @@
+Dev Malhotra
+Senior Frontend Lead, enterprise software firm
+
+EXPERIENCE
+Senior Frontend Lead  Apr 2017 - Present
+- Led frontend development in React and Next.js; reduced build times 72 percent by migrating to Vite.
+- Designed a drag-and-drop dashboard system in TypeScript; mentored six developers.
+- Built advanced data tables with query builders; established code review standards.
+Frontend Engineer  Jun 2015 - Mar 2017
+- Developed responsive UI components in React with Webpack tooling and Jest tests.
+
+SKILLS
+React, Next.js, TypeScript, Vite, Webpack, Jest, Node.js, Express, MongoDB
