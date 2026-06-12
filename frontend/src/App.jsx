@@ -3,7 +3,7 @@ import {
   Shield, Upload, Users, Eye, Layers, Kanban, ScrollText, Settings, LayoutDashboard,
   ChevronRight, ChevronDown, AlertTriangle, CheckCircle2, Lock, Server, GitBranch, Scale,
   XCircle, PauseCircle, MessageSquare, RotateCcw, Cpu, Database, Network, FlaskConical,
-  Bug, GitCompare, Download, Shuffle, EyeOff, FileWarning, Target, Activity, Sparkles,
+  Bug, GitCompare, Download, Shuffle, EyeOff, FileWarning, Target, Activity,
   ArrowRight, ArrowUp, ArrowDown, Play, X, Search, FileText, BarChart3, Columns, Info
 } from "lucide-react";
 
@@ -634,9 +634,6 @@ const TopNav = ({ section, setSection, demoOn, startDemo }) => (
   <div style={{ background: C.navy }} className="px-6 pt-4">
     <div className="flex items-center justify-between flex-wrap gap-3 pb-4">
       <div className="flex items-center gap-3">
-        <div className="w-9 h-9 rounded-lg flex items-center justify-center" style={{ background: "rgba(255,255,255,0.08)", border: "1px solid rgba(255,255,255,0.14)" }}>
-          <Sparkles size={17} style={{ color: "#7FA3FF" }} />
-        </div>
         <div>
           <div className="font-semibold tracking-tight text-white">Marevlo <span style={{ color: "#7FA3FF" }}>TalentOS</span></div>
           <div className="text-xs" style={{ color: "rgba(255,255,255,0.55)" }}>AI-powered technical hiring intelligence, explainability, and workforce evaluation</div>
