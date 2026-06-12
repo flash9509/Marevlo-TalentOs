@@ -9,11 +9,11 @@ import {
 
 /* ------------------------------ design tokens ------------------------------ */
 const C = {
-  bg: "#F4F6FA", surf: "#FFFFFF", soft: "#F8FAFD", tint: "#EEF2F9",
-  ink: "#0E1B2E", text: "#3D4B63", mut: "#6B7A93", faint: "#94A3BC",
-  line: "#E4E9F2", lineSoft: "#EDF1F7",
-  navy: "#0E1B2E", navy2: "#16263F",
-  blue: "#3056D3", blueSoft: "#EAF0FF",
+  bg: "#F4F5EC", surf: "#FFFFFF", soft: "#F9FAF1", tint: "#EDEFDF",
+  ink: "#1B2414", text: "#42503A", mut: "#6E7860", faint: "#98A089",
+  line: "#E2E5D2", lineSoft: "#ECEFDE",
+  navy: "#1F2A16", navy2: "#2C3A1F",
+  blue: "#4E732A", blueSoft: "#EDF4E1",
   gold: "#B98A2F", goldSoft: "#FBF4E4",
   green: "#1F9D6B", greenSoft: "#E7F6EF",
   amber: "#D97706", amberSoft: "#FCF1E0",
@@ -635,10 +635,10 @@ const TopNav = ({ section, setSection, demoOn, startDemo }) => (
     <div className="flex items-center justify-between flex-wrap gap-3 pb-4">
       <div className="flex items-center gap-3">
         <div className="w-9 h-9 rounded-lg flex items-center justify-center" style={{ background: "rgba(255,255,255,0.08)", border: "1px solid rgba(255,255,255,0.14)" }}>
-          <Sparkles size={17} style={{ color: "#7FA3FF" }} />
+          <Sparkles size={17} style={{ color: "#E2C26B" }} />
         </div>
         <div>
-          <div className="font-semibold tracking-tight text-white">Marevlo <span style={{ color: "#7FA3FF" }}>TalentOS</span></div>
+          <div className="font-semibold tracking-tight text-white">Marevlo <span style={{ color: "#E2C26B" }}>TalentOS</span></div>
           <div className="text-xs" style={{ color: "rgba(255,255,255,0.55)" }}>AI-powered technical hiring intelligence, explainability, and workforce evaluation</div>
         </div>
       </div>
@@ -722,8 +722,8 @@ const CommandCenter = ({ tab, all, pool, overall, names, go }) => {
 
   if (tab === "Executive Overview") return (
     <div className="space-y-6">
-      <div className="rounded-2xl p-10 relative overflow-hidden" style={{ background: `linear-gradient(120deg, ${C.navy} 0%, ${C.navy2} 55%, #1D3258 100%)`, boxShadow: SH2 }}>
-        <div className="text-xs font-semibold tracking-widest uppercase mb-3" style={{ color: "#7FA3FF" }}>Benchmark evaluation instance · {all.length} resumes · 3 roles</div>
+      <div className="rounded-2xl p-10 relative overflow-hidden" style={{ background: `linear-gradient(120deg, ${C.navy} 0%, ${C.navy2} 55%, #3C5222 100%)`, boxShadow: SH2 }}>
+        <div className="text-xs font-semibold tracking-widest uppercase mb-3" style={{ color: "#E2C26B" }}>Benchmark evaluation instance · {all.length} resumes · 3 roles</div>
         <h1 className="text-3xl font-semibold tracking-tight text-white mb-3 max-w-2xl">AI workforce intelligence for technical hiring.</h1>
         <p className="text-sm leading-relaxed max-w-2xl mb-8" style={{ color: "rgba(255,255,255,0.7)" }}>
           Evaluate resumes against job descriptions, recover hidden-fit candidates, explain every recommendation with evidence,
@@ -732,7 +732,7 @@ const CommandCenter = ({ tab, all, pool, overall, names, go }) => {
           {PIPELINE_STEPS.map((p, i) => (
             <React.Fragment key={p}>
               <span className="text-xs px-3 py-2 rounded-lg whitespace-nowrap transition-all duration-500"
-                style={{ background: i === pulse ? "rgba(127,163,255,0.25)" : "rgba(255,255,255,0.06)", color: i === pulse ? "#fff" : "rgba(255,255,255,0.6)", border: `1px solid ${i === pulse ? "#7FA3FF66" : "rgba(255,255,255,0.10)"}` }}>{p}</span>
+                style={{ background: i === pulse ? "rgba(226,194,107,0.25)" : "rgba(255,255,255,0.06)", color: i === pulse ? "#fff" : "rgba(255,255,255,0.6)", border: `1px solid ${i === pulse ? "#E2C26B66" : "rgba(255,255,255,0.10)"}` }}>{p}</span>
               {i < PIPELINE_STEPS.length - 1 && <ChevronRight size={13} style={{ color: "rgba(255,255,255,0.3)" }} />}
             </React.Fragment>))}
         </div>
@@ -1781,7 +1781,7 @@ const GovSection = ({ tab, log, weights, setWeights, pool, names }) => {
                 <div><span className="text-sm" style={{ color: C.ink }}>{label}</span><div className="text-xs" style={{ color: C.faint }}>{desc}</div></div>
                 <Mono color={C.blue}>{weights[k]}%</Mono>
               </div>
-              <input type="range" min="0" max="50" value={weights[k]} className="w-full accent-blue-600"
+              <input type="range" min="0" max="50" value={weights[k]} className="w-full accent-green-700"
                 onChange={(e) => setWeights({ ...weights, [k]: +e.target.value })} />
             </div>))}
           <div className="rounded-lg px-3.5 py-2.5 flex items-center gap-2" style={{ background: changed ? C.blueSoft : C.soft }}>
